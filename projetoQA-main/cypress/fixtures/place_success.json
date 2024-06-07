@@ -1,0 +1,34 @@
+{
+    "lugares": [
+        {
+            "lugar": "Paraíba",
+            "mensagem": "Paraíba",
+            "area": "56.467,242"
+        },
+        {
+            "lugar": "2500502",
+            "mensagem": "Alagoinha",
+            "area": "111,361"
+        },
+        {
+            "lugar": "Cabedelo",
+            "mensagem": "Cabedelo",
+            "area": "29,873"
+        },
+        {
+            "lugar": "Alagoinha 2500502",
+            "mensagem": "Alagoinha",
+            "area": "111,361"
+        },
+        {
+            "lugar": "Brasil",
+            "mensagem": "Brasil",
+            "area": "8.510.417,771"
+        },
+        {
+            "lugar": "Rio de Janeiro",
+            "mensagem": "Rio de Janeiro",
+            "area": "43.750,425"
+        }
+    ]
+}
